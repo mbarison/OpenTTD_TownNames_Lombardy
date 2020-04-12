@@ -1,0 +1,6 @@
+﻿##grflangid 27
+
+STR_GRF_NAME						:Nomi lombardi di citta'
+STR_GRF_DESCRIPTION					:{BLACK}Descrizione: {SILVER}Nomi randomizzati di citta' con radici lombarde.{}{}{BLACK}Copyright: {SILVER}{COPYRIGHT} 2020 Marcello Barisonzi{}{BLACK}Versione: {SILVER}1 [2020-04-12]{}{BLACK}Licenza: {SILVER}CC-BY-SA 3.0{}
+
+STR_GAME_OPTIONS_TOWN_NAME_LOMBARDY	:Lombardia

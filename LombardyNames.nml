@@ -284,7 +284,7 @@ town_names(extras) {
             text(" Bresciano", 1),
             text(" Varesino", 1),
             text(" Valtellinese", 1),
-            text("", 84)
+            text("", 56)
 	}
 }
 

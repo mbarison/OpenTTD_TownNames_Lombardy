@@ -94,7 +94,7 @@ extras = [" Brianza",
           " Valtellinese"
 ]
 
-extras_freq =  dict([(i, 1) for i in extras] + [("", 3*len(extras))])
+extras_freq =  dict([(i, 1) for i in extras] + [("", 2*len(extras))])
 
 print(get_template("extras", extras_freq))
 
