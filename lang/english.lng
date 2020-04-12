@@ -1,0 +1,6 @@
+﻿##grflangid 00
+
+STR_GRF_NAME						:Lombardy Town Names
+STR_GRF_DESCRIPTION					:{BLACK}Description: {SILVER}Random town names taken from Lombardy, Italy.{}{}{BLACK}Copyright: {SILVER}{COPYRIGHT} 2020 Marcello Barisonzi{}{BLACK}Version: {SILVER}1 [2020-04-12]{}{BLACK}License: {SILVER}CC-BY-SA 3.0{}
+
+STR_GAME_OPTIONS_TOWN_NAME_LOMBARDY	:Lombardy
